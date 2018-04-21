@@ -1,1 +1,2 @@
-# TaskManager app is an android app that allows users to keep track of all their daily tasks.
+TraqApp is an app that provides features such as Easy to add Notes, create Todo List, Attach Photos and Add awesome Locations, so you will never forget anything.
+
