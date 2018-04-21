@@ -22,5 +22,5 @@ TraqApp is an app that provides features such as Easy to add Notes, create Todo 
 If you are a developer and you wish to contribute to the app please fork the project and submit a pull request. You can trace the status of known issues, also feel free to file a new issue (helpful description, screenshots and logcat are appreciated), or send me an [email](mailto:temidjoy@hotmail.com) if you have any questions.
 
 #### Licensing
-TraqApp is licensed under the [GNU v3 Public License](https://github.com/Temidtech/TaskManagerKotlin/LICENSE).. In addition to the terms set by the GNU v3 Public License, we ask that if you use any code from this repository that you send us a message to let us know.
+TraqApp is licensed under the [GNU v3 Public License](https://github.com/Temidtech/TaskManagerKotlin/blob/master/LICENSE).. In addition to the terms set by the GNU v3 Public License, we ask that if you use any code from this repository that you send us a message to let us know.
 
