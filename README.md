@@ -16,6 +16,10 @@ TraqApp is an app that provides features such as Easy to add Notes, create Todo 
 
 • Add new and awesome places list and navigate at any time only with one click.
 
+#### Technologies
+• Kotlin Language
+• Java Language
+
 #### Contributing
 
 ###### Code & Issues
