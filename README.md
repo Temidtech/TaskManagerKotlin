@@ -23,7 +23,7 @@ TraqApp is an app that provides features such as Easy to add Notes, create Todo 
 
 • You can come up with mockups for the app using https://www.figma.com/ (A free mockup design tool).
 
-NOTE: If you hava mockups for the app already and you would like us to adopt in the  development of this app, kindly send me an [email](mailto:temidjoy@hotmail.com) to review the designs. If selected, i will put the link here for other contributors to adopt.
+NOTE: If you have mockups for the app already and you would like us to adopt in the  development of this app, kindly send me an [email](mailto:temidjoy@hotmail.com) to review the designs. If selected, i will put the link here for other contributors to adopt.
 
 #### Contributing
 
