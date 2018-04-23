@@ -30,6 +30,9 @@ NOTE: If you have mockups for the app already and you would like us to adopt in 
 ###### Code & Issues
 If you are a developer and you wish to contribute to the app please fork the project and submit a pull request. You can trace the status of known issues, also feel free to file a new issue (helpful description, screenshots and logcat are appreciated), or send me an [email](mailto:temidjoy@hotmail.com) if you have any questions.
 
+To get updates or connect with other contributors join us on slack
+https://join.slack.com/t/geekofthrones/shared_invite/enQtMzUxMjE1MTQzNjg1LTRlOGVlMDQ0YTRmNjYyMjMyOWYyMjUzNGNmODAxYjk0ZDhkZTZhOTQxMTlhOGQyOTlhZWI1MDZmYmY3MjllNjg
+
 #### Licensing
 TraqApp is licensed under the [GNU v3 Public License](https://github.com/Temidtech/TaskManagerKotlin/blob/master/LICENSE).. In addition to the terms set by the GNU v3 Public License, we ask that if you use any code from this repository that you send us a message to let us know.
 
